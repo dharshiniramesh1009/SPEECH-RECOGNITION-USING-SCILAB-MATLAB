@@ -1,7 +1,7 @@
 # EXP 5 : SPEECH RECOGNITION USING SCILAB
 
 ## AIM: 
-To perform and verify speech recognition using SCILAB. 
+To perform and verify speech recognition using SCILAB
 
 ## APPARATUS REQUIRED: 
 PC installed with SCILAB. 
